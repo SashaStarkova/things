@@ -1,0 +1,6 @@
+C:\Users\student\source\repos\SF2022UserNNLib\bin\Debug\SF2022UserNNLib.dll
+C:\Users\student\source\repos\SF2022UserNNLib\bin\Debug\SF2022UserNNLib.pdb
+C:\Users\student\source\repos\SF2022UserNNLib\obj\Debug\SF2022UserNNLib.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\SF2022UserNNLib\obj\Debug\SF2022UserNNLib.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\SF2022UserNNLib\obj\Debug\SF2022UserNNLib.dll
+C:\Users\student\source\repos\SF2022UserNNLib\obj\Debug\SF2022UserNNLib.pdb
